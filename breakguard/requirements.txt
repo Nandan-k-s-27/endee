@@ -1,0 +1,10 @@
+# BreakGuard - Semantic API Breaking Change Predictor
+# Core Dependencies
+
+endee>=0.1.10
+sentence-transformers>=2.0.0
+esprima>=4.0.1
+beautifulsoup4>=4.9.0
+requests>=2.25.0
+colorama>=0.4.4
+numpy>=1.22.0
